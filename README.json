@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T09:22:18Z",
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29794
+                "stars": 29791
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-24T01:55:24Z",
+                "last_commit": "2026-08-24T13:20:19Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14644
+                "stars": 14647
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 970467647,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:43:55Z",
+                "last_commit": "2026-08-24T12:55:12Z",
                 "owner": "newton-physics",
                 "repo": "newton",
-                "stars": 5520
+                "stars": 5522
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-07T09:37:38Z",
                 "owner": "NVIDIA-Omniverse",
                 "repo": "PhysX",
-                "stars": 4734
+                "stars": 4733
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 16256144,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:10:58Z",
+                "last_commit": "2026-08-24T13:31:49Z",
                 "owner": "RobotLocomotion",
                 "repo": "drake",
                 "stars": 4158
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-11T13:06:15Z",
                 "owner": "stack-of-tasks",
                 "repo": "pinocchio",
-                "stars": 3677
+                "stars": 3678
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-18T18:55:21Z",
                 "owner": "projectchrono",
                 "repo": "chrono",
-                "stars": 2989
+                "stars": 2990
               }
             },
             {
@@ -763,10 +763,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:28:21Z",
+                "last_commit": "2026-08-24T09:58:23Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26862
+                "stars": 26871
               }
             },
             {
@@ -827,7 +827,7 @@
                 "last_commit": "2026-08-19T16:01:04Z",
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium",
-                "stars": 12390
+                "stars": 12391
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-07-11T23:47:48Z",
                 "owner": "ARISE-Initiative",
                 "repo": "robosuite",
-                "stars": 2572
+                "stars": 2573
               }
             },
             {
@@ -1044,7 +1044,7 @@
                 "last_commit": "2026-07-23T05:40:10Z",
                 "owner": "NVlabs",
                 "repo": "curobo",
-                "stars": 1787
+                "stars": 1790
               }
             },
             {
@@ -1104,7 +1104,7 @@
                 "last_commit": "2026-08-23T16:21:12Z",
                 "owner": "Fields2Cover",
                 "repo": "Fields2Cover",
-                "stars": 870
+                "stars": 871
               }
             },
             {
@@ -1405,7 +1405,7 @@
                     "last_commit": "2026-08-18T08:22:12Z",
                     "owner": "PointCloudLibrary",
                     "repo": "pcl",
-                    "stars": 11097
+                    "stars": 11096
                   }
                 },
                 {
@@ -1552,7 +1552,7 @@
                 "last_commit": "2026-08-22T14:55:33Z",
                 "owner": "casadi",
                 "repo": "casadi",
-                "stars": 2275
+                "stars": 2274
               }
             },
             {
@@ -1654,7 +1654,7 @@
                 "archived": false,
                 "id": 158287397,
                 "language": "C",
-                "last_commit": "2026-08-21T19:47:25Z",
+                "last_commit": "2026-08-24T13:01:10Z",
                 "owner": "hypre-space",
                 "repo": "hypre",
                 "stars": 854
@@ -1714,7 +1714,7 @@
                 "archived": false,
                 "id": 489039140,
                 "language": "C++",
-                "last_commit": "2026-08-01T17:35:21Z",
+                "last_commit": "2026-08-24T13:55:10Z",
                 "owner": "Simple-Robotics",
                 "repo": "proxsuite",
                 "stars": 585
@@ -1789,7 +1789,7 @@
                 "archived": false,
                 "id": 135558985,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:58:16Z",
+                "last_commit": "2026-08-24T13:50:23Z",
                 "owner": "coin-or",
                 "repo": "SHOT",
                 "stars": 131
@@ -1866,6 +1866,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "🟢 urdf",
+                  "description": "XML format for representing a robot model. ⭐ 132",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12067406,
+                    "language": "C++",
+                    "last_commit": "2026-07-30T07:14:00Z",
+                    "owner": "ros",
+                    "repo": "urdfdom",
+                    "stars": 134
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Robot Model Description Format"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "🟢 phobos - Add-on for Blender creating URDF and SMURF robot models. ⭐ 893",
                   "description": null,
                   "children": [],
@@ -1918,7 +1940,7 @@
                 "last_commit": "2026-08-06T23:45:15Z",
                 "owner": "ros2",
                 "repo": "ros2",
-                "stars": 5936
+                "stars": 5937
               }
             },
             {
@@ -1976,7 +1998,7 @@
                 "archived": false,
                 "id": 9517720,
                 "language": "C++",
-                "last_commit": "2026-08-23T14:55:06Z",
+                "last_commit": "2026-08-24T11:52:37Z",
                 "owner": "robotology",
                 "repo": "yarp",
                 "stars": 602
@@ -1991,7 +2013,7 @@
                 "archived": false,
                 "id": 1098436077,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:09:07Z",
+                "last_commit": "2026-08-24T13:40:34Z",
                 "owner": "selfpatch",
                 "repo": "ros2_medkit",
                 "stars": 252
@@ -2046,7 +2068,7 @@
                 "last_commit": "2026-04-20T10:57:15Z",
                 "owner": "vwxyzjn",
                 "repo": "cleanrl",
-                "stars": 10312
+                "stars": 10314
               }
             },
             {
@@ -2058,10 +2080,10 @@
                 "archived": false,
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:44:36Z",
+                "last_commit": "2026-08-24T08:45:53Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7944
+                "stars": 7947
               }
             },
             {
@@ -2088,10 +2110,10 @@
                 "archived": false,
                 "id": 165469880,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T05:43:12Z",
+                "last_commit": "2026-08-24T11:07:30Z",
                 "owner": "Denys88",
                 "repo": "rl_games",
-                "stars": 1380
+                "stars": 1381
               }
             },
             {
@@ -2173,7 +2195,7 @@
                 "last_commit": "2026-08-24T04:18:41Z",
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3648
+                "stars": 3649
               }
             },
             {
@@ -2188,7 +2210,7 @@
                 "last_commit": "2023-03-23T14:55:27Z",
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
-                "stars": 2723
+                "stars": 2724
               }
             },
             {
@@ -2280,6 +2302,28 @@
                 "repo": "srba",
                 "stars": 75
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🟡 Awesome SLAM Datasets",
+                  "description": "Curated list of SLAM-related datasets. ⭐ 1.9k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133256832,
+                    "language": null,
+                    "last_commit": "2024-12-13T04:29:23Z",
+                    "owner": "youngguncho",
+                    "repo": "awesome-slam-datasets",
+                    "stars": 1944
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SLAM Dataset"
             }
           ],
           "description": "Simultaneous Localization and Mapping libraries.",
@@ -2300,7 +2344,7 @@
                 "last_commit": "2026-08-24T06:06:50Z",
                 "owner": "lagadic",
                 "repo": "visp",
-                "stars": 911
+                "stars": 912
               }
             },
             {
@@ -2456,7 +2500,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3859
+                "stars": 3861
               }
             },
             {
@@ -2471,7 +2515,7 @@
                 "last_commit": "2025-05-29T08:02:13Z",
                 "owner": "leggedrobotics",
                 "repo": "legged_gym",
-                "stars": 3100
+                "stars": 3101
               }
             },
             {
@@ -2486,7 +2530,7 @@
                 "last_commit": "2025-01-26T08:11:29Z",
                 "owner": "roboterax",
                 "repo": "humanoid-gym",
-                "stars": 2073
+                "stars": 2072
               }
             },
             {
@@ -2508,6 +2552,28 @@
           "description": "Environments and models for humanoid robot research.",
           "node_type": "group",
           "title": "Humanoid Robotics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟢 Kratos",
+              "description": "Framework for building parallel multi-disciplinary simulation software. ⭐ 1.3k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81815495,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:26:19Z",
+                "owner": "KratosMultiphysics",
+                "repo": "Kratos",
+                "stars": 1319
+              }
+            }
+          ],
+          "description": "Frameworks for coupled multi-physics simulations.",
+          "node_type": "group",
+          "title": "Multiphysics"
         },
         {
           "children": [
@@ -2538,7 +2604,7 @@
                 "last_commit": "2026-08-05T09:27:07Z",
                 "owner": "artivis",
                 "repo": "manif",
-                "stars": 1805
+                "stars": 1807
               }
             },
             {
@@ -2605,6 +2671,28 @@
           "description": "Mathematics libraries for spatial algebra, Lie groups, and linear algebra.",
           "node_type": "group",
           "title": "Math"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟢 fuse - General architecture for performing sensor fusion live on a robot. ⭐ 868",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139344157,
+                "language": "C++",
+                "last_commit": "2026-08-19T20:20:32Z",
+                "owner": "locusrobotics",
+                "repo": "fuse",
+                "stars": 875
+              }
+            }
+          ],
+          "description": "Other robotics-related tools and utilities.",
+          "node_type": "group",
+          "title": "ETC"
         }
       ],
       "title": "Libraries"
@@ -2653,10 +2741,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T03:58:10Z",
+                "last_commit": "2026-08-24T13:49:39Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14318
+                "stars": 14317
               }
             },
             {
@@ -2668,7 +2756,7 @@
                 "archived": false,
                 "id": 156228018,
                 "language": "C++",
-                "last_commit": "2026-08-21T23:19:09Z",
+                "last_commit": "2026-08-24T09:37:47Z",
                 "owner": "cyberbotics",
                 "repo": "webots",
                 "stars": 4573
@@ -2686,7 +2774,7 @@
                 "last_commit": "2026-07-02T16:37:41Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacSim",
-                "stars": 3941
+                "stars": 3942
               }
             },
             {
@@ -2716,7 +2804,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3254
+                "stars": 3256
               }
             },
             {
@@ -2758,10 +2846,10 @@
                 "archived": false,
                 "id": 255865265,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:40:58Z",
+                "last_commit": "2026-08-24T12:24:38Z",
                 "owner": "gazebosim",
                 "repo": "gz-sim",
-                "stars": 1460
+                "stars": 1461
               }
             },
             {
@@ -2791,7 +2879,7 @@
                 "last_commit": "2026-07-18T01:44:38Z",
                 "owner": "haosulab",
                 "repo": "SAPIEN",
-                "stars": 819
+                "stars": 821
               }
             },
             {
@@ -2821,7 +2909,7 @@
                 "last_commit": "2023-06-26T20:42:18Z",
                 "owner": "glumb",
                 "repo": "robot-gui",
-                "stars": 391
+                "stars": 390
               }
             },
             {
@@ -2878,7 +2966,7 @@
                 "archived": false,
                 "id": 211282918,
                 "language": "C++",
-                "last_commit": "2026-08-18T09:44:40Z",
+                "last_commit": "2026-08-24T08:06:28Z",
                 "owner": "CoppeliaRobotics",
                 "repo": "coppeliaSimLib",
                 "stars": 150
@@ -2952,7 +3040,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74137
+            "stars": 74141
           }
         },
         {
@@ -2967,7 +3055,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30352
+            "stars": 30355
           }
         },
         {
@@ -2982,7 +3070,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28803
+            "stars": 28804
           }
         },
         {
@@ -2997,7 +3085,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23514
+            "stars": 23517
           }
         },
         {
@@ -3012,7 +3100,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16108
+            "stars": 16117
           }
         },
         {
@@ -3027,7 +3115,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6977
+            "stars": 6978
           }
         },
         {
@@ -3042,7 +3130,7 @@
             "last_commit": "2026-05-11T08:28:29Z",
             "owner": "mithi",
             "repo": "robotics-coursework",
-            "stars": 5158
+            "stars": 5163
           }
         },
         {
@@ -3102,7 +3190,7 @@
             "last_commit": "2026-06-24T11:11:58Z",
             "owner": "keon",
             "repo": "awesome-physical-ai",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -3170,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:00:26.251Z",
+    "last_updated": "2026-08-24T14:01:21.967Z",
     "original_repository": "jslee02/awesome-robotics-libraries",
     "original_repository_id": 56404753,
     "original_repository_sha": "a0efa992f941a95d60a66450b299be7d2b70cf80",
