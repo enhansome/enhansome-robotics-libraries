@@ -30,10 +30,10 @@ A curated list of robotics libraries and simulators.
 
 *Communication middleware, robot software frameworks, runtime services such as launch and diagnostics, and agent orchestration for robots.*
 
-* 🟢 [ROS 2](https://github.com/ros2/ros2/wiki) ⭐ 6,263 | 🐛 140 | 📅 2026-10-20 - Version 2.0 of the Robot Operating System (ROS) software stack. [⭐ 6.2k](https://github.com/ros2/ros2) ⭐ 6,263 | 🐛 140 | 📅 2026-10-20
-* 🟢 [Dimensional](https://dimensional.org/) - Agentic operating system for physical space. [⭐ 4.6k](https://github.com/dimensionalOS/dimos) ⭐ 4,700 | 🐛 482 | 🌐 Python | 📅 2026-10-30
+* 🟢 [ROS 2](https://github.com/ros2/ros2/wiki) ⭐ 6,264 | 🐛 140 | 📅 2026-10-20 - Version 2.0 of the Robot Operating System (ROS) software stack. [⭐ 6.2k](https://github.com/ros2/ros2) ⭐ 6,264 | 🐛 140 | 📅 2026-10-20
+* 🟢 [Dimensional](https://dimensional.org/) - Agentic operating system for physical space. [⭐ 4.6k](https://github.com/dimensionalOS/dimos) ⭐ 4,702 | 🐛 484 | 🌐 Python | 📅 2026-10-31
 * 🟢 [YARP](https://www.yarp.it/) - Communication and device interfaces applicable from humanoids to embedded devices. [⭐ 603](https://github.com/robotology/yarp) ⭐ 605 | 🐛 249 | 🌐 C++ | 📅 2026-10-27
-* 🟢 [ros2\_medkit](https://selfpatch.github.io/ros2_medkit/) - Fault management and diagnostics gateway for ROS 2 with a REST API. [⭐ 276](https://github.com/selfpatch/ros2_medkit) ⭐ 280 | 🐛 107 | 🌐 C++ | 📅 2026-10-27
+* 🟢 [ros2\_medkit](https://selfpatch.github.io/ros2_medkit/) - Fault management and diagnostics gateway for ROS 2 with a REST API. [⭐ 276](https://github.com/selfpatch/ros2_medkit) ⭐ 282 | 🐛 108 | 🌐 C++ | 📅 2026-10-27
 * 🟢 [Robot Control Stack (RCS)](https://robotcontrolstack.org) - ROS-free Gymnasium framework unifying MuJoCo sim and real robots for robot learning. [⭐ 164](https://github.com/RobotControlStack/robot-control-stack) ⭐ 170 | 🐛 14 | 🌐 Python | 📅 2026-10-30
 * 🟡 [Micro-ROS for Arduino](https://github.com/kaiaai/micro_ros_arduino_kaiaai) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2024-10-28 - a Micro-ROS fork available in the Arduino Library Manager. [⭐ 14](https://github.com/kaiaai/micro_ros_arduino_kaiaai) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2024-10-28
 * [Rock](https://www.rock-robotics.org/) - Software framework for robotic systems.
@@ -58,7 +58,7 @@ A curated list of robotics libraries and simulators.
 
 *Robot description formats (URDF, SDF, MJCF, USD), their parsers and exporters, and robot model collections.*
 
-* 🟢 [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,292 | 🐛 62 | 🌐 Python | 📅 2026-10-23 - Collection of well-tuned MuJoCo models for research and development. [⭐ 4.2k](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,292 | 🐛 62 | 🌐 Python | 📅 2026-10-23
+* 🟢 [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,295 | 🐛 60 | 🌐 Python | 📅 2026-10-31 - Collection of well-tuned MuJoCo models for research and development. [⭐ 4.2k](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,295 | 🐛 60 | 🌐 Python | 📅 2026-10-31
 * 🟢 phobos - Add-on for Blender creating URDF and SMURF robot models. [⭐ 908](https://github.com/dfki-ric/phobos) ⭐ 911 | 🐛 15 | 🌐 Python | 📅 2026-07-14
 * 🟢 [onshape-to-robot](https://github.com/Rhoban/onshape-to-robot) ⭐ 644 | 🐛 22 | 🌐 Python | 📅 2026-08-26 - Converting OnShape assembly to robot definition (SDF or URDF) through OnShape API. [⭐ 638](https://github.com/Rhoban/onshape-to-robot) ⭐ 644 | 🐛 22 | 🌐 Python | 📅 2026-08-26
 * 🟢 [urdf](https://wiki.ros.org/urdf) - XML format for representing a robot model. [⭐ 138](https://github.com/ros/urdfdom) ⭐ 138 | 🐛 54 | 🌐 C++ | 📅 2026-10-22
@@ -68,7 +68,7 @@ A curated list of robotics libraries and simulators.
 
 *Forward and inverse kinematics and rigid-body dynamics algorithms, without contact time-stepping.*
 
-* 🟢 [pinocchio](https://stack-of-tasks.github.io/pinocchio/) - Fast and flexible algorithms for rigid-body dynamics with analytical derivatives. [⭐ 3.8k](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,830 | 🐛 104 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [pinocchio](https://stack-of-tasks.github.io/pinocchio/) - Fast and flexible algorithms for rigid-body dynamics with analytical derivatives. [⭐ 3.8k](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,833 | 🐛 105 | 🌐 C++ | 📅 2026-10-30
 * 🟡 [Robotics Library](https://www.roboticslibrary.org/) - Self-contained C++ library for robot kinematics, planning, and control. [⭐ 1.2k](https://github.com/roboticslibrary/rl) ⭐ 1,210 | 🐛 54 | 🌐 C++ | 📅 2025-04-15
 * 🟢 [KDL](https://www.orocos.org/kdl.html) - Orocos Kinematics and Dynamics Library for kinematic chains. [⭐ 904](https://github.com/orocos/orocos_kinematics_dynamics) ⭐ 907 | 🐛 62 | 🌐 C++ | 📅 2026-09-23
 * 🟡 [RBDL](https://rbdl.github.io/) - Rigid Body Dynamics Library based on Featherstone algorithms. [⭐ 708](https://github.com/rbdl/rbdl) ⭐ 709 | 🐛 28 | 🌐 C++ | 📅 2026-10-28
@@ -81,7 +81,7 @@ A curated list of robotics libraries and simulators.
 
 ### Inverse Kinematics
 
-* 🟢 IKBT - A python package to solve robot arm inverse kinematics in symbolic form. [⭐ 220](https://github.com/uw-biorobotics/IKBT) ⭐ 221 | 🐛 4 | 🌐 Python | 📅 2026-10-14
+* 🟢 IKBT - A python package to solve robot arm inverse kinematics in symbolic form. [⭐ 220](https://github.com/uw-biorobotics/IKBT) ⭐ 221 | 🐛 4 | 🌐 Python | 📅 2026-10-30
 * 🟢 ssik - Analytical inverse kinematics for 6R and 7R revolute robot arms, returning every IK branch. [⭐ 188](https://github.com/personalrobotics/ssik) ⭐ 194 | 🐛 65 | 🌐 Python | 📅 2026-10-14
 * 🟢 Kinpy - A simple pure python package to solve inverse kinematics. [⭐ 181](https://github.com/neka-nat/kinpy) ⭐ 181 | 🐛 5 | 🌐 Python | 📅 2026-10-17
 
@@ -101,18 +101,18 @@ A curated list of robotics libraries and simulators.
 
 *Embeddable engines that time-step rigid, soft, fluid, or particle dynamics with contact. See also [Comparisons](COMPARISONS.md).*
 
-* 🟢 [Genesis](https://genesis-world.readthedocs.io) - Generative and universal physics platform for robotics with GPU-accelerated parallel simulation. [⭐ 30k](https://github.com/Genesis-Embodied-AI/genesis-world) ⭐ 30,144 | 🐛 161 | 🌐 Python | 📅 2026-10-29
-* 🟢 [MuJoCo](https://mujoco.org/) - Multi-joint dynamics with contact for physics-based simulation and control. [⭐ 15.6k](https://github.com/google-deepmind/mujoco) ⭐ 15,976 | 🐛 292 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [Bullet](https://pybullet.org/) - Real-time physics simulation for games, visual effects, and robotics. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,831 | 🐛 437 | 🌐 C++ | 📅 2026-10-09
-* 🟢 [Newton](https://newton-physics.github.io/newton/) - GPU-accelerated differentiable physics engine built on NVIDIA Warp for robotics simulation. [⭐ 5.8k](https://github.com/newton-physics/newton) ⭐ 5,870 | 🐛 435 | 🌐 Python | 📅 2026-10-30
-* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/physx/5.5.0/index.html) - NVIDIA physics engine for real-time rigid body and vehicle simulation. [⭐ 4.8k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,819 | 🐛 133 | 🌐 C++ | 📅 2026-10-27
-* 🟢 [Drake](https://drake.mit.edu/) - Planning, control, and analysis toolbox for nonlinear dynamical systems. [⭐ 4.2k](https://github.com/RobotLocomotion/drake) ⭐ 4,243 | 🐛 644 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [Genesis](https://genesis-world.readthedocs.io) - Generative and universal physics platform for robotics with GPU-accelerated parallel simulation. [⭐ 30k](https://github.com/Genesis-Embodied-AI/genesis-world) ⭐ 30,143 | 🐛 170 | 🌐 Python | 📅 2026-10-29
+* 🟢 [MuJoCo](https://mujoco.org/) - Multi-joint dynamics with contact for physics-based simulation and control. [⭐ 15.6k](https://github.com/google-deepmind/mujoco) ⭐ 15,997 | 🐛 295 | 🌐 C++ | 📅 2026-10-31
+* 🟢 [Bullet](https://pybullet.org/) - Real-time physics simulation for games, visual effects, and robotics. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,834 | 🐛 437 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [Newton](https://newton-physics.github.io/newton/) - GPU-accelerated differentiable physics engine built on NVIDIA Warp for robotics simulation. [⭐ 5.8k](https://github.com/newton-physics/newton) ⭐ 5,873 | 🐛 427 | 🌐 Python | 📅 2026-10-31
+* 🟢 [PhysX](https://nvidia-omniverse.github.io/PhysX/physx/5.5.0/index.html) - NVIDIA physics engine for real-time rigid body and vehicle simulation. [⭐ 4.8k](https://github.com/NVIDIA-Omniverse/PhysX) ⭐ 4,820 | 🐛 133 | 🌐 C++ | 📅 2026-10-27
+* 🟢 [Drake](https://drake.mit.edu/) - Planning, control, and analysis toolbox for nonlinear dynamical systems. [⭐ 4.2k](https://github.com/RobotLocomotion/drake) ⭐ 4,243 | 🐛 644 | 🌐 C++ | 📅 2026-10-31
 * 🟢 [Brax](https://github.com/google/brax) ⭐ 3,252 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20 - Massively parallel differentiable rigid body physics engine in JAX for robotics and RL. [⭐ 3.2k](https://github.com/google/brax) ⭐ 3,252 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20
-* 🟢 [CHRONO::ENGINE](https://projectchrono.org/) - Multi-physics simulation of rigid and flexible bodies, granular, and fluid systems. [⭐ 3.1k](https://github.com/projectchrono/chrono) ⭐ 3,131 | 🐛 16 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [Simbody](https://simtk.org/home/simbody/) - Multibody dynamics library for biomechanical and mechanical systems. [⭐ 2.6k](https://github.com/simbody/simbody) ⭐ 2,566 | 🐛 142 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [CHRONO::ENGINE](https://projectchrono.org/) - Multi-physics simulation of rigid and flexible bodies, granular, and fluid systems. [⭐ 3.1k](https://github.com/projectchrono/chrono) ⭐ 3,135 | 🐛 16 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [Simbody](https://simtk.org/home/simbody/) - Multibody dynamics library for biomechanical and mechanical systems. [⭐ 2.6k](https://github.com/simbody/simbody) ⭐ 2,566 | 🐛 142 | 🌐 C++ | 📅 2026-10-31
 * 🟡 [ReactPhysics3d](https://www.reactphysics3d.com/) - Open-source 3D physics engine for rigid body simulation and collision detection. [⭐ 1.8k](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,778 | 🐛 93 | 🌐 C++ | 📅 2025-03-28
-* 🟢 [DART](http://dartsim.github.io/) - Dynamic Animation and Robotics Toolkit for multibody simulation and planning. [⭐ 1.2k](https://github.com/dartsim/dart) ⭐ 1,222 | 🐛 11 | 🌐 C++ | 📅 2026-10-29
-* 🟢 [Newton Dynamics](http://web.archive.org/web/20080513110013/http://www.newtondynamics.com/) - Real-time physics engine for rigid body simulation. [⭐ 1k](https://github.com/MADEAPPS/newton-dynamics) ⭐ 1,022 | 🐛 1 | 🌐 HTML | 📅 2026-01-17
+* 🟢 [DART](http://dartsim.github.io/) - Dynamic Animation and Robotics Toolkit for multibody simulation and planning. [⭐ 1.2k](https://github.com/dartsim/dart) ⭐ 1,223 | 🐛 13 | 🌐 C++ | 📅 2026-10-31
+* 🟢 [Newton Dynamics](http://web.archive.org/web/20080513110013/http://www.newtondynamics.com/) - Real-time physics engine for rigid body simulation. [⭐ 1k](https://github.com/MADEAPPS/newton-dynamics) ⭐ 1,023 | 🐛 1 | 🌐 HTML | 📅 2026-01-17
 * 🟢 [siconos](https://nonsmooth.gricad-pages.univ-grenoble-alpes.fr/siconos/) - Nonsmooth dynamical systems modeling and simulation platform. [⭐ 186](https://github.com/siconos/siconos) ⭐ 188 | 🐛 6 | 🌐 C | 📅 2026-10-29
 * 🟢 [MBSim](https://www.mbsim-env.de/) - Multi-body simulation environment for flexible and rigid systems. [⭐ 53](https://github.com/mbsim-env/mbsim) ⭐ 53 | 🐛 3 | 🌐 C++ | 📅 2026-10-30
 * [IBDS](http://www.interactive-graphics.de/index.php/downloads/12-ibds) - Impulse-based dynamics simulation for rigid bodies and particle systems.
@@ -121,7 +121,7 @@ A curated list of robotics libraries and simulators.
 
 ### Soft, Fluid & Multiphysics
 
-* 🟢 PositionBasedDynamics - Position-based methods for simulating deformable objects and fluids. [⭐ 2.3k](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) ⭐ 2,294 | 🐛 12 | 🌐 C++ | 📅 2026-09-01
+* 🟢 PositionBasedDynamics - Position-based methods for simulating deformable objects and fluids. [⭐ 2.3k](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) ⭐ 2,295 | 🐛 12 | 🌐 C++ | 📅 2026-09-01
 * 🟢 [Kratos](http://www.cimne.com/kratos/) - Framework for building parallel multi-disciplinary simulation software. [⭐ 1.4k](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,390 | 🐛 763 | 🌐 C++ | 📅 2026-10-30
 * 🟢 [SOFA](https://www.sofa-framework.org/) - Simulation Open Framework Architecture for medical and physics simulation. [⭐ 1.3k](https://github.com/sofa-framework/sofa) ⭐ 1,294 | 🐛 455 | 🌐 C++ | 📅 2026-10-30
 * 🟢 [Ptera Software](https://docs.pterasoftware.com/) - Open-source package for analyzing flapping-wing flight. [⭐ 270](https://github.com/camUrban/PteraSoftware) ⭐ 272 | 🐛 35 | 🌐 Python | 📅 2026-10-27
@@ -132,7 +132,7 @@ A curated list of robotics libraries and simulators.
 
 * [Fluid Engine Dev - Jet](https://fluidenginedevelopment.org/) - Fluid simulation engine for computer graphics applications. [⭐ 2.1k](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,104 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 · last commit 2022
 * [nphysics](https://nphysics.org/) - 2D and 3D rigid body physics engine written in Rust. [⭐ 1.6k](https://github.com/dimforge/nphysics) ⭐ 1,649 | 🐛 44 | 🌐 Rust | 📅 2021-07-27 · last commit 2021
-* Tiny Differentiable Simulator - Header-only differentiable physics engine for robotics. [⭐ 1.4k](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,376 | 🐛 12 | 🌐 C++ | 📅 2026-10-21 · last commit 2023
+* Tiny Differentiable Simulator - Header-only differentiable physics engine for robotics. [⭐ 1.4k](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,376 | 🐛 12 | 🌐 C++ | 📅 2026-10-30 · last commit 2023
 * 💀 qu3e - Lightweight 3D physics engine for rigid body dynamics. [⭐ 993](https://github.com/RandyGaul/qu3e) ⚠️ Archived · last commit 2021
 * 💀 [Flex](https://developer.nvidia.com/flex) - GPU-based particle simulation for rigid bodies, fluids, and deformables. [⭐ 815](https://github.com/NVIDIAGameWorks/FleX) ⭐ 815 | 🐛 96 | 🌐 C++ | 📅 2021-04-15 · last commit 2021
 * 💀 [RaiSim](https://slides.com/jeminhwangbo/raisim-manual) - Cross-platform physics engine for robotics and reinforcement learning. [⭐ 328](https://github.com/leggedrobotics/raisimLib) ⚠️ Archived · last commit 2020
@@ -145,16 +145,16 @@ A curated list of robotics libraries and simulators.
 
 *Simulation applications with worlds, sensors, rendering, and robot middleware bridges.*
 
-* 🟢 AirSim - Simulator based on Unreal Engine for autonomous vehicles. [⭐ 18.5k](https://github.com/Microsoft/AirSim) ⭐ 18,584 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
-* 🟢 [PyBullet](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) - An easy to use simulator for robotics and deep reinforcement learning. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,831 | 🐛 437 | 🌐 C++ | 📅 2026-10-09
-* 🟢 [CARLA](https://carla.org/) - Open-source simulator for autonomous driving research. [⭐ 14.5k](https://github.com/carla-simulator/carla) ⭐ 14,553 | 🐛 1,217 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [Webots](http://www.cyberbotics.com/) - Development environment to model, program, and simulate robots and mechanical systems. [⭐ 4.7k](https://github.com/cyberbotics/webots) ⭐ 4,737 | 🐛 228 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [Isaac Sim](https://developer.nvidia.com/isaac/sim) - NVIDIA's GPU-accelerated robotics simulation platform with PhysX 5 and RTX rendering. [⭐ 4.2k](https://github.com/isaac-sim/IsaacSim) ⭐ 4,391 | 🐛 109 | 🌐 Python | 📅 2026-10-27
+* 🟢 AirSim - Simulator based on Unreal Engine for autonomous vehicles. [⭐ 18.5k](https://github.com/Microsoft/AirSim) ⭐ 18,586 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
+* 🟢 [PyBullet](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) - An easy to use simulator for robotics and deep reinforcement learning. [⭐ 14.8k](https://github.com/bulletphysics/bullet3) ⭐ 14,834 | 🐛 437 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [CARLA](https://carla.org/) - Open-source simulator for autonomous driving research. [⭐ 14.5k](https://github.com/carla-simulator/carla) ⭐ 14,557 | 🐛 1,215 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [Webots](http://www.cyberbotics.com/) - Development environment to model, program, and simulate robots and mechanical systems. [⭐ 4.7k](https://github.com/cyberbotics/webots) ⭐ 4,741 | 🐛 229 | 🌐 C++ | 📅 2026-10-31
+* 🟢 [Isaac Sim](https://developer.nvidia.com/isaac/sim) - NVIDIA's GPU-accelerated robotics simulation platform with PhysX 5 and RTX rendering. [⭐ 4.2k](https://github.com/isaac-sim/IsaacSim) ⭐ 4,396 | 🐛 109 | 🌐 Python | 📅 2026-10-27
 * 🟢 [Habitat-Sim](https://aihabitat.org/) - Simulation platform for research in embodied artificial intelligence. [⭐ 3.8k](https://github.com/facebookresearch/habitat-sim) ⚠️ Archived
 * 🟢 [Unity](https://unity.com/solutions/automotive-transportation-manufacturing/robotics) - Game engine with open-source robotics simulation tools and tutorials. [⭐ 2.6k](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,604 | 🐛 56 | 🌐 C# | 📅 2026-09-22
-* 🟡 [AI2-THOR](https://ai2thor.allenai.org/) - Interactive household environment for embodied AI with Unity backend. [⭐ 1.8k](https://github.com/allenai/ai2thor) ⭐ 1,822 | 🐛 281 | 🌐 C# | 📅 2025-11-04
-* 🟢 [Gazebo Sim](https://gazebosim.org/) - Open source robotics simulator (formerly Ignition Gazebo). [⭐ 1.5k](https://github.com/gazebosim/gz-sim) ⭐ 1,559 | 🐛 667 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [Rigs of Rods](https://www.rigsofrods.org/) - Soft-body vehicle simulator using beam physics. [⭐ 1.3k](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,282 | 🐛 246 | 🌐 C++ | 📅 2026-10-25
+* 🟡 [AI2-THOR](https://ai2thor.allenai.org/) - Interactive household environment for embodied AI with Unity backend. [⭐ 1.8k](https://github.com/allenai/ai2thor) ⭐ 1,824 | 🐛 281 | 🌐 C# | 📅 2025-11-04
+* 🟢 [Gazebo Sim](https://gazebosim.org/) - Open source robotics simulator (formerly Ignition Gazebo). [⭐ 1.5k](https://github.com/gazebosim/gz-sim) ⭐ 1,560 | 🐛 669 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [Rigs of Rods](https://www.rigsofrods.org/) - Soft-body vehicle simulator using beam physics. [⭐ 1.3k](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,282 | 🐛 247 | 🌐 C++ | 📅 2026-10-30
 * 🟢 [SAPIEN](https://sapien.ucsd.edu) - Physics-rich simulation environment for articulated objects and manipulation. [⭐ 853](https://github.com/haosulab/SAPIEN) ⭐ 862 | 🐛 89 | 🌐 C++ | 📅 2026-10-09
 * 🟢 [Hexapod Robot Simulator](https://hexapod.netlify.app/) - Open-source hexapod robot inverse kinematics and gaits visualizer. [⭐ 796](https://github.com/mithi/hexapod) ⭐ 799 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-22
 * 🟢 [mvsim](https://wiki.ros.org/mvsim) - Lightweight multi-vehicle 2D simulator with ROS integration. [⭐ 417](https://github.com/MRPT/mvsim) ⭐ 421 | 🐛 4 | 🌐 C++ | 📅 2026-10-20
@@ -192,8 +192,8 @@ A curated list of robotics libraries and simulators.
 * 🟢 [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) ⭐ 3,607 | 🐛 9 | 🌐 C++ | 📅 2026-04-24 - ROS planner and controller plugins for mobile robot navigation. [⭐ 3.6k](https://github.com/ai-winter/ros_motion_planning) ⭐ 3,607 | 🐛 9 | 🌐 C++ | 📅 2026-04-24
 * 🟢 [OMPL](https://ompl.kavrakilab.org/) - Open motion planning library. [⭐ 2.2k](https://github.com/ompl/ompl) ⭐ 2,189 | 🐛 103 | 🌐 C++ | 📅 2026-10-30
 * 🟢 [MoveIt!](https://moveit.ai/) - Motion planning framework. [⭐ 2.1k](https://github.com/moveit/moveit) ⭐ 2,098 | 🐛 622 | 🌐 C++ | 📅 2026-07-20
-* 🟢 [cuRobo](https://curobo.org) - A CUDA accelerated library containing a suite of robotics algorithms that run significantly faster. [⭐ 1.9k](https://github.com/nvlabs/curobo) ⭐ 1,947 | 🐛 32 | 🌐 Python | 📅 2026-09-10
-* 🟢 [Ruckig](https://github.com/pantor/ruckig) ⭐ 1,426 | 🐛 26 | 🌐 C++ | 📅 2026-09-29 - Real-time, time-optimal and jerk-constrained online trajectory generation. [⭐ 1.4k](https://github.com/pantor/ruckig) ⭐ 1,426 | 🐛 26 | 🌐 C++ | 📅 2026-09-29
+* 🟢 [cuRobo](https://curobo.org) - A CUDA accelerated library containing a suite of robotics algorithms that run significantly faster. [⭐ 1.9k](https://github.com/nvlabs/curobo) ⭐ 1,947 | 🐛 33 | 🌐 Python | 📅 2026-09-10
+* 🟢 [Ruckig](https://github.com/pantor/ruckig) ⭐ 1,425 | 🐛 26 | 🌐 C++ | 📅 2026-09-29 - Real-time, time-optimal and jerk-constrained online trajectory generation. [⭐ 1.4k](https://github.com/pantor/ruckig) ⭐ 1,425 | 🐛 26 | 🌐 C++ | 📅 2026-09-29
 * 🟢 [Python Motion Planning](https://github.com/ai-winter/python_motion_planning) ⭐ 1,101 | 🐛 2 | 🌐 Python | 📅 2026-09-15 - Python implementations of path planners, trajectory trackers, and curve generators. [⭐ 1.1k](https://github.com/ai-winter/python_motion_planning) ⭐ 1,101 | 🐛 2 | 🌐 Python | 📅 2026-09-15
 * 🟢 [TOPP-RA](https://hungpham2511.github.io/toppra/) - Time-parameterizing robot trajectories subject to kinematic and dynamic constraints. [⭐ 934](https://github.com/hungpham2511/toppra) ⭐ 941 | 🐛 36 | 🌐 Python | 📅 2026-10-25
 * 🟢 Fields2Cover - Robust and efficient coverage paths for autonomous agricultural vehicles. [⭐ 909](https://github.com/fields2cover/fields2cover) ⭐ 921 | 🐛 30 | 🌐 C++ | 📅 2026-10-27
@@ -221,16 +221,16 @@ A curated list of robotics libraries and simulators.
 *Model-based control: MPC, trajectory optimization, whole-body and task-space control.*
 
 * 🟢 OCS2 - Efficient continuous and discrete time optimal control implementation. [⭐ 1.5k](https://github.com/leggedrobotics/ocs2) ⭐ 1,533 | 🐛 54 | 🌐 C++ | 📅 2026-09-29
-* 🟢 Crocoddyl - Optimal control library for robot control under contact sequence. [⭐ 1.3k](https://github.com/loco-3d/crocoddyl) ⭐ 1,320 | 🐛 20 | 🌐 C++ | 📅 2026-10-26
+* 🟢 Crocoddyl - Optimal control library for robot control under contact sequence. [⭐ 1.3k](https://github.com/loco-3d/crocoddyl) ⭐ 1,322 | 🐛 20 | 🌐 C++ | 📅 2026-10-26
 * 🟡 TrajectoryOptimization - A fast trajectory optimization library written in Julia. [⭐ 400](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) ⭐ 401 | 🐛 23 | 🌐 Julia | 📅 2026-10-15
-* 🟢 Bioptim - Python framework for musculoskeletal optimal control in biomechanics. [⭐ 120](https://github.com/pyomeca/bioptim) ⭐ 121 | 🐛 98 | 🌐 Python | 📅 2026-10-30
+* 🟢 Bioptim - Python framework for musculoskeletal optimal control in biomechanics. [⭐ 120](https://github.com/pyomeca/bioptim) ⭐ 121 | 🐛 98 | 🌐 Python | 📅 2026-10-31
 * 🟡 [Ungar](https://github.com/fdevinc/ungar) ⭐ 109 | 🐛 5 | 🌐 C++ | 📅 2024-07-16 - Expressive and efficient implementation of optimal control problems using template metaprogramming. [⭐ 108](https://github.com/fdevinc/ungar) ⭐ 109 | 🐛 5 | 🌐 C++ | 📅 2024-07-16
 
 <details>
 <summary>Inactive (3): archived or no commits for 3+ years</summary>
 
 * [Control Toolbox](https://ethz-adrl.github.io/ct/) - Open-Source C++ Library for Robotics, Optimal and Model Predictive Control. [⭐ 1.7k](https://github.com/ethz-adrl/control-toolbox) ⭐ 1,719 | 🐛 64 | 🌐 C++ | 📅 2022-11-09 · last commit 2021
-* [towr](https://wiki.ros.org/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots. [⭐ 1.1k](https://github.com/ethz-adrl/towr) ⭐ 1,086 | 🐛 27 | 🌐 C++ | 📅 2023-04-17 · last commit 2021
+* [towr](https://wiki.ros.org/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots. [⭐ 1.1k](https://github.com/ethz-adrl/towr) ⭐ 1,087 | 🐛 27 | 🌐 C++ | 📅 2023-04-17 · last commit 2021
 * [FROST](https://ayonga.github.io/frost-dev/index.html) - Fast Robot Optimization and Simulation Toolkit for hybrid dynamical systems in MATLAB. [⭐ 170](https://github.com/ayonga/frost-dev) ⭐ 170 | 🐛 11 | 🌐 MATLAB | 📅 2023-11-29 · last commit 2021
 
 </details>
@@ -239,24 +239,24 @@ A curated list of robotics libraries and simulators.
 
 *General-purpose numerical solvers (LP, QP, NLP, least squares, black-box) and modeling layers.*
 
-* 🟢 [Ceres Solver](http://ceres-solver.org/) - Large scale nonlinear optimization library. [⭐ 4.6k](https://github.com/ceres-solver/ceres-solver) ⭐ 4,596 | 🐛 51 | 🌐 C++ | 📅 2026-10-20
-* 🟢 [pymoo](https://www.pymoo.org/) - Multi-objective Optimization in Python. [⭐ 3k](https://github.com/anyoptimization/pymoo) ⭐ 2,984 | 🐛 17 | 🌐 Python | 📅 2026-07-07
-* 🟢 [CasADi](https://github.com/casadi/casadi/wiki) ⭐ 2,328 | 🐛 701 | 🌐 C++ | 📅 2026-10-30 - Symbolic framework for algorithmic differentiation and numeric optimization. [⭐ 2.3k](https://github.com/casadi/casadi) ⭐ 2,328 | 🐛 701 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [NLopt](https://nlopt.readthedocs.io/en/latest/) - Nonlinear optimization. [⭐ 2.3k](https://github.com/stevengj/nlopt) ⭐ 2,288 | 🐛 94 | 🌐 C | 📅 2026-10-17
+* 🟢 [Ceres Solver](http://ceres-solver.org/) - Large scale nonlinear optimization library. [⭐ 4.6k](https://github.com/ceres-solver/ceres-solver) ⭐ 4,597 | 🐛 51 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [pymoo](https://www.pymoo.org/) - Multi-objective Optimization in Python. [⭐ 3k](https://github.com/anyoptimization/pymoo) ⭐ 2,986 | 🐛 18 | 🌐 Python | 📅 2026-07-07
+* 🟢 [CasADi](https://github.com/casadi/casadi/wiki) ⭐ 2,329 | 🐛 702 | 🌐 C++ | 📅 2026-10-31 - Symbolic framework for algorithmic differentiation and numeric optimization. [⭐ 2.3k](https://github.com/casadi/casadi) ⭐ 2,329 | 🐛 702 | 🌐 C++ | 📅 2026-10-31
+* 🟢 [NLopt](https://nlopt.readthedocs.io/en/latest/) - Nonlinear optimization. [⭐ 2.3k](https://github.com/stevengj/nlopt) ⭐ 2,289 | 🐛 94 | 🌐 C | 📅 2026-10-17
 * 🟢 [OSQP](https://osqp.org/) - The Operator Splitting QP Solver. [⭐ 2.2k](https://github.com/osqp/osqp) ⭐ 2,219 | 🐛 134 | 🌐 C | 📅 2026-01-12
-* 🟢 [Ipopt](https://projects.coin-or.org/Ipopt) - Large scale nonlinear optimization library. [⭐ 1.8k](https://github.com/coin-or/Ipopt) ⭐ 1,794 | 🐛 13 | 🌐 C++ | 📅 2026-10-10
-* 🟢 [Pagmo](https://esa.github.io/pagmo2/index.html) - Scientific library for massively parallel optimization. [⭐ 937](https://github.com/esa/pagmo2) ⭐ 938 | 🐛 36 | 🌐 C++ | 📅 2026-09-29
+* 🟢 [Ipopt](https://projects.coin-or.org/Ipopt) - Large scale nonlinear optimization library. [⭐ 1.8k](https://github.com/coin-or/Ipopt) ⭐ 1,795 | 🐛 13 | 🌐 C++ | 📅 2026-10-10
+* 🟢 [Pagmo](https://esa.github.io/pagmo2/index.html) - Scientific library for massively parallel optimization. [⭐ 937](https://github.com/esa/pagmo2) ⭐ 938 | 🐛 37 | 🌐 C++ | 📅 2026-09-29
 * 🟡 [OptimLib](https://github.com/kthohr/optim) ⭐ 898 | 🐛 13 | 🌐 C++ | 📅 2024-04-28 - Lightweight C++ library of numerical optimization methods for nonlinear functions. [⭐ 898](https://github.com/kthohr/optim) ⭐ 898 | 🐛 13 | 🌐 C++ | 📅 2024-04-28
 * 🟢 ifopt - An Eigen-based, light-weight C++ Interface to Nonlinear Programming Solvers (Ipopt, Snopt). [⭐ 866](https://github.com/ethz-adrl/ifopt) ⭐ 868 | 🐛 19 | 🌐 C++ | 📅 2025-11-03
 * 🟢 qpsolvers - Quadratic Programming solvers in Python with a unified API. [⭐ 760](https://github.com/qpsolvers/qpsolvers) ⭐ 763 | 🐛 8 | 🌐 Python | 📅 2026-10-29
-* 🟢 hpipm - High-performance interior-point-method QP solvers (Ipopt, Snopt). [⭐ 710](https://github.com/giaf/hpipm) ⭐ 714 | 🐛 51 | 🌐 C | 📅 2026-10-03
+* 🟢 hpipm - High-performance interior-point-method QP solvers (Ipopt, Snopt). [⭐ 710](https://github.com/giaf/hpipm) ⭐ 714 | 🐛 51 | 🌐 C | 📅 2026-10-30
 * 🟢 [Optimization Engine (OpEn)](https://alphaville.github.io/optimization-engine/) - Embedded nonconvex optimization with code generation for real-time control, with ROS support. [⭐ 651](https://github.com/alphaville/optimization-engine) ⭐ 651 | 🐛 14 | 🌐 Rust | 📅 2026-03-31
 * 🟢 [SCS](https://web.stanford.edu/~boyd/papers/scs.html) - Numerical optimization for solving large-scale convex cone problems. [⭐ 638](https://github.com/cvxgrp/scs) ⭐ 638 | 🐛 13 | 🌐 C | 📅 2026-10-27
 * 🟢 [ProxSuite](https://simple-robotics.github.io/proxsuite/) - The Advanced Proximal Optimization Toolbox. [⭐ 596](https://github.com/Simple-Robotics/ProxSuite) ⭐ 600 | 🐛 17 | 🌐 C++ | 📅 2026-10-30
 * 🟢 libcmaes - Blackbox stochastic optimization using the CMA-ES algorithm. [⭐ 372](https://github.com/CMA-ES/libcmaes) ⭐ 371 | 🐛 57 | 🌐 C++ | 📅 2026-07-02
 * 🟡 [limbo](http://resibots.eu/limbo/) - Gaussian processes and Bayesian optimization of black-box functions. [⭐ 270](https://github.com/resibots/limbo) ⭐ 270 | 🐛 20 | 🌐 C++ | 📅 2023-10-18
 * 🟡 EXOTica - Generic optimisation toolset for robotics platforms. [⭐ 164](https://github.com/ipab-slmc/exotica) ⭐ 165 | 🐛 57 | 🌐 C++ | 📅 2026-10-14
-* 🟢 SHOT - A solver for mixed-integer nonlinear optimization problems. [⭐ 135](https://github.com/coin-or/SHOT) ⭐ 135 | 🐛 0 | 🌐 C++ | 📅 2026-10-30
+* 🟢 SHOT - A solver for mixed-integer nonlinear optimization problems. [⭐ 135](https://github.com/coin-or/SHOT) ⭐ 135 | 🐛 0 | 🌐 C++ | 📅 2026-10-31
 * 🟡 [RobOptim](https://roboptim.net/index.html) - Numerical Optimization for Robotics. [⭐ 66](https://github.com/roboptim/roboptim-core) ⭐ 67 | 🐛 11 | 🌐 C++ | 📅 2025-03-21
 * 🟢 lpsolvers - Linear Programming solvers in Python with a unified API. [⭐ 26](https://github.com/stephane-caron/lpsolvers) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-04-09
 * 🟢 eigen-qld - Interface to use the QLD QP solver with the Eigen3 library. [⭐ 17](https://github.com/jrl-umi3218/eigen-qld) ⭐ 17 | 🐛 1 | 🌐 C | 📅 2026-10-12
@@ -275,16 +275,16 @@ A curated list of robotics libraries and simulators.
 * 🟢 nanoflann - Nearest Neighbor search with KD-trees. [⭐ 2.7k](https://github.com/jlblancoc/nanoflann) ⭐ 2,701 | 🐛 40 | 🌐 C++ | 📅 2026-10-26
 * 🟡 Sophus - Lie groups using Eigen. [⭐ 2.5k](https://github.com/strasdat/Sophus) ⭐ 2,465 | 🐛 16 | 🌐 C++ | 📅 2024-07-06
 * 🟢 manif - Small c++11 header-only library for Lie theory. [⭐ 1.8k](https://github.com/artivis/manif) ⭐ 1,827 | 🐛 38 | 🌐 C++ | 📅 2026-08-05
-* 🟢 [HYPRE](https://hypre.readthedocs.io/) - Parallel solvers for sparse linear systems featuring multigrid methods. [⭐ 867](https://github.com/hypre-space/hypre) ⭐ 874 | 🐛 165 | 🌐 C | 📅 2026-10-30
+* 🟢 [HYPRE](https://hypre.readthedocs.io/) - Parallel solvers for sparse linear systems featuring multigrid methods. [⭐ 867](https://github.com/hypre-space/hypre) ⭐ 874 | 🐛 165 | 🌐 C | 📅 2026-10-31
 * 🟡 Fastor - Light-weight high performance tensor algebra framework in C++11/14/17. [⭐ 844](https://github.com/romeric/Fastor) ⭐ 844 | 🐛 36 | 🌐 C++ | 📅 2025-07-08
-* 🟢 spatialmath-python - Python classes for pose and orientation in 2D/3D with spatial operations toolbox. [⭐ 646](https://github.com/rai-opensource/spatialmath-python) ⭐ 651 | 🐛 31 | 🌐 Python | 📅 2026-10-26
+* 🟢 spatialmath-python - Python classes for pose and orientation in 2D/3D with spatial operations toolbox. [⭐ 646](https://github.com/rai-opensource/spatialmath-python) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2026-10-26
 * 🟡 kindr - Kinematics and dynamics library for rigid body transformations. [⭐ 618](https://github.com/ANYbotics/kindr) ⭐ 617 | 🐛 29 | 🌐 C++ | 📅 2025-02-15
 * 🟢 SpaceVelAlg - Spatial vector algebra with the Eigen3. [⭐ 81](https://github.com/jrl-umi3218/SpaceVecAlg) ⭐ 81 | 🐛 5 | 🌐 C++ | 📅 2026-10-25
 
 <details>
 <summary>Inactive (4): archived or no commits for 3+ years</summary>
 
-* [FLANN](https://www.cs.ubc.ca/research/flann/) - Fast Library for Approximate Nearest Neighbors. [⭐ 2.4k](https://github.com/flann-lib/flann) ⭐ 2,379 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 · last commit 2022
+* [FLANN](https://www.cs.ubc.ca/research/flann/) - Fast Library for Approximate Nearest Neighbors. [⭐ 2.4k](https://github.com/flann-lib/flann) ⭐ 2,380 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 · last commit 2022
 * linalg.h - Single header public domain linear algebra library for C++11. [⭐ 969](https://github.com/sgorsten/linalg) ⭐ 973 | 🐛 6 | 🌐 C++ | 📅 2023-07-02 · last commit 2023
 * Octree - Fast radius neighbor search with an Octree. [⭐ 378](https://github.com/jbehley/octree) ⭐ 380 | 🐛 2 | 🌐 C++ | 📅 2019-12-17 · last commit 2019
 * [Cover-Tree](https://hunch.net/~jl/projects/cover_tree/cover_tree.html) - Cover tree data structure for quick k-nearest-neighbor search. [⭐ 64](https://github.com/DNCrane/Cover-Tree) ⭐ 64 | 🐛 5 | 🌐 C++ | 📅 2018-02-13 · last commit 2017
@@ -296,17 +296,17 @@ A curated list of robotics libraries and simulators.
 *SLAM, odometry, factor graphs, filtering and sensor fusion, calibration, and mapping.*
 
 * 🟡 Cartographer - Real-time SLAM in 2D and 3D across multiple platforms and sensor configurations. [⭐ 8k](https://github.com/cartographer-project/cartographer) ⭐ 8,000 | 🐛 241 | 🌐 C++ | 📅 2024-01-05
-* 🟢 [RTAB-Map](http://introlab.github.io/rtabmap/) - RGB-D Graph SLAM approach based on a global Bayesian loop closure detector. [⭐ 4k](https://github.com/introlab/rtabmap) ⭐ 4,071 | 🐛 591 | 🌐 C++ | 📅 2026-10-29
-* 🟢 GTSAM - Smoothing and mapping (SAM) in robotics and vision. [⭐ 3.7k](https://github.com/borglab/gtsam) ⭐ 3,770 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-30
-* 🟢 [mrpt](https://www.mrpt.org/) - Mobile Robot Programming Toolkit for SLAM, navigation, and computer vision. [⭐ 2.2k](https://github.com/MRPT/mrpt) ⭐ 2,173 | 🐛 19 | 🌐 C++ | 📅 2026-10-29
+* 🟢 [RTAB-Map](http://introlab.github.io/rtabmap/) - RGB-D Graph SLAM approach based on a global Bayesian loop closure detector. [⭐ 4k](https://github.com/introlab/rtabmap) ⭐ 4,071 | 🐛 592 | 🌐 C++ | 📅 2026-10-31
+* 🟢 GTSAM - Smoothing and mapping (SAM) in robotics and vision. [⭐ 3.7k](https://github.com/borglab/gtsam) ⭐ 3,771 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-30
+* 🟢 [mrpt](https://www.mrpt.org/) - Mobile Robot Programming Toolkit for SLAM, navigation, and computer vision. [⭐ 2.2k](https://github.com/MRPT/mrpt) ⭐ 2,173 | 🐛 19 | 🌐 C++ | 📅 2026-10-31
 * 🟡 ElasticFusion - Real-time dense visual SLAM system. [⭐ 1.9k](https://github.com/mp3guy/ElasticFusion) ⭐ 1,933 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
 * 🟢 fuse - General architecture for performing sensor fusion live on a robot. [⭐ 882](https://github.com/locusrobotics/fuse) ⭐ 885 | 🐛 49 | 🌐 C++ | 📅 2026-08-19
 * 🟢 [FusionCore](https://manankharwar.github.io/fusioncore/) - ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection. [⭐ 378](https://github.com/manankharwar/fusioncore) ⭐ 382 | 🐛 45 | 🌐 C++ | 📅 2026-10-27
-* 🟢 [fiducials](https://wiki.ros.org/fiducials) - Simultaneous localization and mapping using fiducial markers. [⭐ 284](https://github.com/UbiquityRobotics/fiducials) ⭐ 284 | 🐛 36 | 🌐 C | 📅 2026-10-29
+* 🟢 [fiducials](https://wiki.ros.org/fiducials) - Simultaneous localization and mapping using fiducial markers. [⭐ 284](https://github.com/UbiquityRobotics/fiducials) ⭐ 284 | 🐛 36 | 🌐 C | 📅 2026-10-31
 
 ### Mapping
 
-* 🟢 [OctoMap](http://octomap.github.io/) - Efficient Probabilistic 3D Mapping Framework Based on Octrees. [⭐ 2.4k](https://github.com/OctoMap/octomap) ⭐ 2,399 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* 🟢 [OctoMap](http://octomap.github.io/) - Efficient Probabilistic 3D Mapping Framework Based on Octrees. [⭐ 2.4k](https://github.com/OctoMap/octomap) ⭐ 2,400 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 * 🟢 [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) - Iterative Closest Point library for 2-D/3-D mapping in Robotics. [⭐ 1.8k](https://github.com/norlab-ulaval/libpointmatcher) ⭐ 1,841 | 🐛 101 | 🌐 C++ | 📅 2026-08-27
 * 🟢 Bonxai - Brutally fast, sparse, 3D Voxel Grid (formerly Treexy). [⭐ 884](https://github.com/facontidavide/Bonxai) ⭐ 886 | 🐛 6 | 🌐 C++ | 📅 2026-09-29
 * 🟡 [wavemap](https://projects.asl.ethz.ch/wavemap/) - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping. [⭐ 573](https://github.com/ethz-asl/wavemap) ⭐ 576 | 🐛 12 | 🌐 C++ | 📅 2024-12-30
@@ -315,7 +315,7 @@ A curated list of robotics libraries and simulators.
 <summary>Inactive (7): archived or no commits for 3+ years</summary>
 
 * ORB-SLAM2 - Real-time SLAM library for Monocular, Stereo and RGB-D cameras. [⭐ 10.2k](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,269 | 🐛 806 | 🌐 C++ | 📅 2024-05-15 · last commit 2017
-* [LSD-SLAM](https://vision.in.tum.de/research/vslam/lsdslam) - Real-time monocular SLAM. [⭐ 2.7k](https://github.com/tum-vision/lsd_slam) ⭐ 2,732 | 🐛 240 | 🌐 C++ | 📅 2023-03-23 · last commit 2014
+* [LSD-SLAM](https://vision.in.tum.de/research/vslam/lsdslam) - Real-time monocular SLAM. [⭐ 2.7k](https://github.com/tum-vision/lsd_slam) ⭐ 2,733 | 🐛 240 | 🌐 C++ | 📅 2023-03-23 · last commit 2014
 * [DSO](https://vision.in.tum.de/research/vslam/dso) - Novel direct and sparse formulation for Visual Odometry. [⭐ 2.5k](https://github.com/JakobEngel/dso) ⭐ 2,461 | 🐛 138 | 🌐 C++ | 📅 2024-02-23 · last commit 2021
 * voxblox - Flexible voxel-based mapping focusing on truncated and Euclidean signed distance fields. [⭐ 1.7k](https://github.com/ethz-asl/voxblox) ⭐ 1,679 | 🐛 77 | 🌐 C++ | 📅 2024-07-01 · last commit 2021
 * Kintinuous - Real-time large scale dense visual SLAM system. [⭐ 953](https://github.com/mp3guy/Kintinuous) ⭐ 954 | 🐛 43 | 🌐 C++ | 📅 2022-08-26 · last commit 2022
@@ -328,8 +328,8 @@ A curated list of robotics libraries and simulators.
 
 *Image and point-cloud processing, detection, pose estimation and tracking, and visual servoing.*
 
-* 🟢 [PCL](https://pointclouds.org/) - 2D/3D image and point cloud processing. [⭐ 11.2k](https://github.com/PointCloudLibrary/pcl) ⭐ 11,202 | 🐛 576 | 🌐 C++ | 📅 2026-10-30
-* 🟢 [ViSP](http://visp.inria.fr/) - Visual Servoing Platform. [⭐ 928](https://github.com/lagadic/visp) ⭐ 937 | 🐛 5 | 🌐 C++ | 📅 2026-10-26
+* 🟢 [PCL](https://pointclouds.org/) - 2D/3D image and point cloud processing. [⭐ 11.2k](https://github.com/PointCloudLibrary/pcl) ⭐ 11,205 | 🐛 578 | 🌐 C++ | 📅 2026-10-30
+* 🟢 [ViSP](http://visp.inria.fr/) - Visual Servoing Platform. [⭐ 928](https://github.com/lagadic/visp) ⭐ 937 | 🐛 6 | 🌐 C++ | 📅 2026-10-31
 * 🟢 [BundleTrack](https://github.com/wenbowen123/BundleTrack) ⭐ 688 | 🐛 12 | 🌐 C++ | 📅 2026-04-13 - 6D Pose Tracking for Novel Objects without 3D Models. [⭐ 687](https://github.com/wenbowen123/BundleTrack) ⭐ 688 | 🐛 12 | 🌐 C++ | 📅 2026-04-13
 
 <details>
@@ -343,7 +343,7 @@ A curated list of robotics libraries and simulators.
 
 *Grasp synthesis, detection, and planning, and dexterous manipulation.*
 
-* 🟢 [AnyGrasp SDK](https://github.com/graspnet/anygrasp_sdk) ⭐ 1,048 | 🐛 68 | 🌐 Python | 📅 2026-07-13 - SDK for AnyGrasp, a 6-DoF grasp pose detection method. [⭐ 1k](https://github.com/graspnet/anygrasp_sdk) ⭐ 1,048 | 🐛 68 | 🌐 Python | 📅 2026-07-13
+* 🟢 [AnyGrasp SDK](https://github.com/graspnet/anygrasp_sdk) ⭐ 1,047 | 🐛 68 | 🌐 Python | 📅 2026-07-13 - SDK for AnyGrasp, a 6-DoF grasp pose detection method. [⭐ 1k](https://github.com/graspnet/anygrasp_sdk) ⭐ 1,047 | 🐛 68 | 🌐 Python | 📅 2026-07-13
 * 🟡 [Contact-GraspNet](https://github.com/NVlabs/contact_graspnet) ⭐ 544 | 🐛 25 | 🌐 Python | 📅 2024-11-21 - 6-DoF grasp generation for parallel-jaw grippers using contact maps. [⭐ 538](https://github.com/NVlabs/contact_graspnet) ⭐ 544 | 🐛 25 | 🌐 Python | 📅 2024-11-21
 * 🟢 [GraspNet API](https://github.com/graspnet/graspnetAPI) ⭐ 370 | 🐛 15 | 🌐 Python | 📅 2026-06-29 - Python API and evaluation tools for the GraspNet benchmark. [⭐ 369](https://github.com/graspnet/graspnetAPI) ⭐ 370 | 🐛 15 | 🌐 Python | 📅 2026-06-29
 
@@ -358,29 +358,29 @@ A curated list of robotics libraries and simulators.
 
 *Robot foundation models (VLA), imitation and reinforcement learning libraries, learning environments, and benchmarks.*
 
-* 🟢 LeRobot - Pretrained models, datasets, and simulation environments for real-world robotics in PyTorch. [⭐ 28.1k](https://github.com/huggingface/lerobot) ⭐ 28,591 | 🐛 860 | 🌐 Python | 📅 2026-10-30
-* 🟢 [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,951 | 🐛 89 | 🌐 Python | 📅 2026-10-26 - Reliable implementations of reinforcement learning algorithms in PyTorch. [⭐ 13.9k](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,951 | 🐛 89 | 🌐 Python | 📅 2026-10-26
-* 🟢 [Gymnasium](https://gymnasium.farama.org/) - Developing and comparing reinforcement learning algorithms. [⭐ 12.7k](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,760 | 🐛 120 | 🌐 Python | 📅 2026-10-29
-* 🟢 [CleanRL](https://github.com/vwxyzjn/cleanrl) ⭐ 10,620 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - Single-file implementations of deep reinforcement learning algorithms. [⭐ 10.5k](https://github.com/vwxyzjn/cleanrl) ⭐ 10,620 | 🐛 110 | 🌐 Python | 📅 2026-04-20
-* 🟢 [Isaac Lab](https://isaac-sim.github.io/IsaacLab/) - GPU-accelerated open-source framework for robot learning built on NVIDIA Isaac Sim. [⭐ 8.3k](https://github.com/isaac-sim/IsaacLab) ⭐ 8,531 | 🐛 415 | 🌐 Python | 📅 2026-10-30
-* 🟢 [ManiSkill](https://github.com/mani-skill/ManiSkill) ⭐ 3,478 | 🐛 167 | 🌐 Python | 📅 2026-08-04 - Robot simulation and manipulation learning package powered by SAPIEN. [⭐ 3.4k](https://github.com/mani-skill/ManiSkill) ⭐ 3,478 | 🐛 167 | 🌐 Python | 📅 2026-08-04
-* 🟡 [Legged Gym](https://github.com/leggedrobotics/legged_gym) ⭐ 3,165 | 🐛 59 | 🌐 Python | 📅 2025-05-29 - Isaac Gym environments for legged robot locomotion training. [⭐ 3.1k](https://github.com/leggedrobotics/legged_gym) ⭐ 3,165 | 🐛 59 | 🌐 Python | 📅 2025-05-29
-* 🟢 [robosuite](https://robosuite.ai/docs/) - A modular simulation framework and benchmark for robot learning. [⭐ 2.7k](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,688 | 🐛 127 | 🌐 Python | 📅 2026-07-11
+* 🟢 LeRobot - Pretrained models, datasets, and simulation environments for real-world robotics in PyTorch. [⭐ 28.1k](https://github.com/huggingface/lerobot) ⭐ 28,608 | 🐛 862 | 🌐 Python | 📅 2026-10-31
+* 🟢 [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,953 | 🐛 89 | 🌐 Python | 📅 2026-10-26 - Reliable implementations of reinforcement learning algorithms in PyTorch. [⭐ 13.9k](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,953 | 🐛 89 | 🌐 Python | 📅 2026-10-26
+* 🟢 [Gymnasium](https://gymnasium.farama.org/) - Developing and comparing reinforcement learning algorithms. [⭐ 12.7k](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,761 | 🐛 120 | 🌐 Python | 📅 2026-10-29
+* 🟢 [CleanRL](https://github.com/vwxyzjn/cleanrl) ⭐ 10,621 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - Single-file implementations of deep reinforcement learning algorithms. [⭐ 10.5k](https://github.com/vwxyzjn/cleanrl) ⭐ 10,621 | 🐛 110 | 🌐 Python | 📅 2026-04-20
+* 🟢 [Isaac Lab](https://isaac-sim.github.io/IsaacLab/) - GPU-accelerated open-source framework for robot learning built on NVIDIA Isaac Sim. [⭐ 8.3k](https://github.com/isaac-sim/IsaacLab) ⭐ 8,538 | 🐛 405 | 🌐 Python | 📅 2026-10-31
+* 🟢 [ManiSkill](https://github.com/mani-skill/ManiSkill) ⭐ 3,477 | 🐛 167 | 🌐 Python | 📅 2026-08-04 - Robot simulation and manipulation learning package powered by SAPIEN. [⭐ 3.4k](https://github.com/mani-skill/ManiSkill) ⭐ 3,477 | 🐛 167 | 🌐 Python | 📅 2026-08-04
+* 🟡 [Legged Gym](https://github.com/leggedrobotics/legged_gym) ⭐ 3,169 | 🐛 59 | 🌐 Python | 📅 2025-05-29 - Isaac Gym environments for legged robot locomotion training. [⭐ 3.1k](https://github.com/leggedrobotics/legged_gym) ⭐ 3,169 | 🐛 59 | 🌐 Python | 📅 2025-05-29
+* 🟢 [robosuite](https://robosuite.ai/docs/) - A modular simulation framework and benchmark for robot learning. [⭐ 2.7k](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,689 | 🐛 128 | 🌐 Python | 📅 2026-07-11
 * 🟡 [Humanoid-Gym](https://github.com/roboterax/humanoid-gym) ⭐ 2,111 | 🐛 25 | 🌐 Python | 📅 2025-01-26 - Reinforcement learning environment for humanoid robot locomotion. [⭐ 2.1k](https://github.com/roboterax/humanoid-gym) ⭐ 2,111 | 🐛 25 | 🌐 Python | 📅 2025-01-26
-* 🟢 [rl\_games](https://github.com/Denys88/rl_games) ⭐ 1,408 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-10-29 - High-performance RL library used in Isaac Gym environments. [⭐ 1.4k](https://github.com/Denys88/rl_games) ⭐ 1,408 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-10-29
-* 🟢 [SKRL](https://github.com/Toni-SM/skrl) ⭐ 1,101 | 🐛 40 | 🌐 Python | 📅 2026-10-27 - Modular reinforcement learning library with support for multiple ML frameworks. [⭐ 1.1k](https://github.com/Toni-SM/skrl) ⭐ 1,101 | 🐛 40 | 🌐 Python | 📅 2026-10-27
+* 🟢 [rl\_games](https://github.com/Denys88/rl_games) ⭐ 1,409 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-10-29 - High-performance RL library used in Isaac Gym environments. [⭐ 1.4k](https://github.com/Denys88/rl_games) ⭐ 1,409 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-10-29
+* 🟢 [SKRL](https://github.com/Toni-SM/skrl) ⭐ 1,101 | 🐛 40 | 🌐 Python | 📅 2026-10-30 - Modular reinforcement learning library with support for multiple ML frameworks. [⭐ 1.1k](https://github.com/Toni-SM/skrl) ⭐ 1,101 | 🐛 40 | 🌐 Python | 📅 2026-10-30
 * 🟡 [AllenAct](https://allenact.org/) - Python/PyTorch-based Research Framework for Embodied AI. [⭐ 384](https://github.com/allenai/allenact) ⭐ 384 | 🐛 58 | 🌐 Python | 📅 2026-05-19
 
 ### General Machine Learning
 
-* 🟢 [mlpack](https://www.mlpack.org/) - Scalable C++ machine learning library. [⭐ 5.7k](https://github.com/mlpack/mlpack) ⭐ 5,719 | 🐛 16 | 🌐 C++ | 📅 2026-10-27
+* 🟢 [mlpack](https://www.mlpack.org/) - Scalable C++ machine learning library. [⭐ 5.7k](https://github.com/mlpack/mlpack) ⭐ 5,719 | 🐛 18 | 🌐 C++ | 📅 2026-10-27
 * 🟡 [DyNet](https://dynet.readthedocs.io/en/latest/) - The Dynamic Neural Network Toolkit. [⭐ 3.4k](https://github.com/clab/dynet) ⭐ 3,431 | 🐛 232 | 🌐 C++ | 📅 2023-12-01
 * 🟡 DLL - Deep Learning Library (DLL) for C++. [⭐ 688](https://github.com/wichtounet/dll) ⭐ 689 | 🐛 1 | 🌐 C++ | 📅 2025-05-27
 
 <details>
 <summary>Inactive (7): archived or no commits for 3+ years</summary>
 
-* 💀 [Ivy](https://lets-unify.ai/) - Unified Machine Learning Framework. [⭐ 14.2k](https://github.com/unifyai/ivy) ⭐ 14,171 | 🐛 984 | 🌐 Python | 📅 2026-10-22 · last commit 2026
+* 💀 [Ivy](https://lets-unify.ai/) - Unified Machine Learning Framework. [⭐ 14.2k](https://github.com/unifyai/ivy) ⭐ 14,170 | 🐛 984 | 🌐 Python | 📅 2026-10-22 · last commit 2026
 * [tiny-dnn](https://tiny-dnn.readthedocs.io/en/latest/) - Header only, dependency-free deep learning framework in C++14. [⭐ 6k](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,030 | 🐛 297 | 🌐 C++ | 📅 2022-04-17 · last commit 2018
 * 💀 gym-gazebo - OpenAI Gym environments for the Gazebo simulator. [⭐ 845](https://github.com/erlerobot/gym-gazebo) ⚠️ Archived · last commit 2019
 * [Fido](http://fidoproject.github.io/) - Lightweight C++ machine learning library for embedded electronics and robotics. [⭐ 464](https://github.com/FidoProject/Fido) ⭐ 465 | 🐛 15 | 🌐 C++ | 📅 2020-01-05 · last commit 2017
@@ -394,7 +394,7 @@ A curated list of robotics libraries and simulators.
 
 *Logging, storing, converting, and visualizing robot data, dataset tools, and teleoperation for data collection.*
 
-* 🟢 Any4LeRobot - A collection of utilities and tools for LeRobot. [⭐ 1.2k](https://github.com/Tavish9/any4lerobot) ⭐ 1,170 | 🐛 5 | 🌐 Python | 📅 2026-10-29
+* 🟢 Any4LeRobot - A collection of utilities and tools for LeRobot. [⭐ 1.2k](https://github.com/Tavish9/any4lerobot) ⭐ 1,170 | 🐛 4 | 🌐 Python | 📅 2026-10-30
 * 🟢 [ReductStore](https://www.reduct.store) - High-performance, time-indexed object storage for robotics and industrial IoT. [⭐ 373](https://github.com/reductstore/reductstore) ⭐ 376 | 🐛 14 | 🌐 Rust | 📅 2026-10-29
 * 🟢 [LeRobot Episode Scoring Toolkit](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 79 | 🐛 8 | 🌐 Python | 📅 2026-03-13 - One-click tool to score, filter, and export higher-quality LeRobot datasets. [⭐ 77](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 79 | 🐛 8 | 🌐 Python | 📅 2026-03-13
 * [Foxglove Studio](https://foxglove.dev) - A fully integrated visualization and debugging desktop app for your robotics data.
@@ -410,23 +410,23 @@ A curated list of robotics libraries and simulators.
 
 *Related curated lists and collections.*
 
-* 🟢 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,690 | 🐛 31 | 🌐 Python | 📅 2026-10-27 - Curated list of machine learning frameworks, libraries, and software. [⭐ 74.6k](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,690 | 🐛 31 | 🌐 Python | 📅 2026-10-27
-* 🟢 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,828 | 🐛 79 | 🌐 Python | 📅 2026-10-26 - Python sample codes for robotics algorithms. [⭐ 30.7k](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,828 | 🐛 79 | 🌐 Python | 📅 2026-10-26
-* 🟡 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,113 | 🐛 92 | 📅 2025-05-26 - Curated list of deep learning tutorials, projects, and communities. [⭐ 29k](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,113 | 🐛 92 | 📅 2025-05-26
-* 🟢 [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,749 | 🐛 81 | 🌐 Python | 📅 2026-08-15 - Curated list of AI courses, books, video lectures, and papers. [⭐ 16.7k](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,749 | 🐛 81 | 🌐 Python | 📅 2026-08-15
+* 🟢 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,696 | 🐛 31 | 🌐 Python | 📅 2026-10-27 - Curated list of machine learning frameworks, libraries, and software. [⭐ 74.6k](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,696 | 🐛 31 | 🌐 Python | 📅 2026-10-27
+* 🟢 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,831 | 🐛 79 | 🌐 Python | 📅 2026-10-26 - Python sample codes for robotics algorithms. [⭐ 30.7k](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,831 | 🐛 79 | 🌐 Python | 📅 2026-10-26
+* 🟡 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,114 | 🐛 92 | 📅 2025-05-26 - Curated list of deep learning tutorials, projects, and communities. [⭐ 29k](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,114 | 🐛 92 | 📅 2025-05-26
+* 🟢 [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,750 | 🐛 81 | 🌐 Python | 📅 2026-08-15 - Curated list of AI courses, books, video lectures, and papers. [⭐ 16.7k](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,750 | 🐛 81 | 🌐 Python | 📅 2026-08-15
 * 🟡 [Awesome Robotics (Kiloreux)](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,271 | 🐛 48 | 📅 2024-09-22 - Curated list of robotics resources (Kiloreux). [⭐ 7.2k](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,271 | 🐛 48 | 📅 2024-09-22
 * 🟢 [Robotics Coursework](https://github.com/mithi/robotics-coursework) ⭐ 5,365 | 🐛 2 | 📅 2026-08-31 - A list of robotics courses you can take online. [⭐ 5.3k](https://github.com/mithi/robotics-coursework) ⭐ 5,365 | 🐛 2 | 📅 2026-08-31
 * 🟡 [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,949 | 🐛 14 | 📅 2024-12-13 - Curated list of SLAM-related datasets. [⭐ 1.9k](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,949 | 🐛 14 | 📅 2024-12-13
 * 🟢 [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection) ⭐ 1,046 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Curated list of collision detection libraries and resources. [⭐ 1k](https://github.com/jslee02/awesome-collision-detection) ⭐ 1,046 | 🐛 4 | 🌐 Python | 📅 2026-10-26
 * 🟢 [Awesome Physical AI](https://github.com/keon/awesome-physical-ai) ⭐ 449 | 🐛 24 | 📅 2026-06-24 - Curated list of academic papers and resources on Physical AI. [⭐ 439](https://github.com/keon/awesome-physical-ai) ⭐ 449 | 🐛 24 | 📅 2026-06-24
-* 🟢 [Awesome VLA Study](https://github.com/MilkClouds/awesome-vla-study) ⭐ 411 | 🐛 0 | 📅 2026-03-21 - Study guide to vision-language-action (VLA) papers for robot learning. [⭐ 402](https://github.com/MilkClouds/awesome-vla-study) ⭐ 411 | 🐛 0 | 📅 2026-03-21
+* 🟢 [Awesome VLA Study](https://github.com/MilkClouds/awesome-vla-study) ⭐ 412 | 🐛 0 | 📅 2026-03-21 - Study guide to vision-language-action (VLA) papers for robot learning. [⭐ 402](https://github.com/MilkClouds/awesome-vla-study) ⭐ 412 | 🐛 0 | 📅 2026-03-21
 
 <details>
 <summary>Inactive (6): archived or no commits for 3+ years</summary>
 
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,627 | 🐛 99 | 📅 2024-05-17 - Curated list of computer vision resources. [⭐ 23.6k](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,627 | 🐛 99 | 📅 2024-05-17 · last commit 2021
-* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,915 | 🐛 13 | 📅 2023-11-20 - Tooling for professional robotic development in C++ and Python with ROS and autonomous driving. [⭐ 3.9k](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,915 | 🐛 13 | 📅 2023-11-20 · last commit 2023
-* [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) ⭐ 1,520 | 🐛 9 | 📅 2024-01-10 - Curated list of robotics links and software libraries (ahundt). [⭐ 1.5k](https://github.com/ahundt/awesome-robotics) ⭐ 1,520 | 🐛 9 | 📅 2024-01-10 · last commit 2023
+* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,916 | 🐛 13 | 📅 2023-11-20 - Tooling for professional robotic development in C++ and Python with ROS and autonomous driving. [⭐ 3.9k](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,916 | 🐛 13 | 📅 2023-11-20 · last commit 2023
+* [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) ⭐ 1,519 | 🐛 9 | 📅 2024-01-10 - Curated list of robotics links and software libraries (ahundt). [⭐ 1.5k](https://github.com/ahundt/awesome-robotics) ⭐ 1,519 | 🐛 9 | 📅 2024-01-10 · last commit 2023
 * 💀 [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo) ⚠️ Archived - Curated list of Gazebo simulation framework resources. [⭐ 155](https://github.com/fkromer/awesome-gazebo) ⚠️ Archived · last commit 2021
 * [Awesome Human Robot Interaction](https://github.com/Po-Jen/awesome-human-robot-interaction) ⭐ 153 | 🐛 0 | 📅 2019-02-12 - Curated list of human-robot interaction libraries and resources. [⭐ 153](https://github.com/Po-Jen/awesome-human-robot-interaction) ⭐ 153 | 🐛 0 | 📅 2019-02-12 · last commit 2019
 * [Awesome Grasping](https://github.com/Po-Jen/awesome-grasping) ⭐ 99 | 🐛 0 | 📅 2019-07-13 - Curated list of grasping libraries and resources. [⭐ 99](https://github.com/Po-Jen/awesome-grasping) ⭐ 99 | 🐛 0 | 📅 2019-07-13 · last commit 2019
@@ -453,4 +453,4 @@ Contributions are very welcome! Please read the [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
